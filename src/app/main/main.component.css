@@ -1,0 +1,29 @@
+.bar{
+    text-align: center;
+    margin-left: 0vw;
+    padding: 1vw;
+    height: auto;
+}
+button{
+    width: 7vw;
+    padding: 0.5vw;
+    border: transparent;
+    background-color: violet;
+    border-radius: 0.6vw;
+    cursor: pointer;
+    height: 3vw;
+    font-weight: bold;
+}
+button:hover{
+    background-color: purple;
+    color: white;
+    border-radius: 0.6vw;
+}
+h2{
+    padding: 1vw;
+    text-align: center;
+    width: auto;
+    height: auto;
+    color: red;
+    font-weight: bold;
+}

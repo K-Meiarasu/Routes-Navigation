@@ -1,0 +1,22 @@
+{
+    "users":[
+        {
+            "email":"mei@gmail.com",
+            "pwd":111,
+            "type":"normal",
+            "id":1
+        },
+        {
+            "email":"gautham@gmail.com",
+            "pwd":222,
+            "type":"admin",
+            "id":2
+        },
+        {
+            "email":"rat@gmail.com",
+            "pwd":333,
+            "type":"super",
+            "id":3
+        }
+    ]
+}

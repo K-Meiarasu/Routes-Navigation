@@ -1,0 +1,12 @@
+h2{
+    padding: 1vw;
+    width: auto;
+    text-align: center;
+    background-color: coral;
+    margin: 1.5vw;
+}
+body{
+    background-color: black;
+    width: 98vw;
+    height: 95vh;
+}

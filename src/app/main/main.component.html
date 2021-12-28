@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <div class="bar">
+            <button id="addInvoice" (click)="add()">Add Invoice</button><br><br>
+            <button id="viewInvoice" (click)="view()">View Invoice</button><br><br>
+            <button id="updateInvoice" (click)="update()">Update Invoice</button><br><br>
+            <button id="logout" (click)="logout()">Log Out</button><br><br>
+        </div>
+        <br><br>
+        <div class="info">
+            <h2>{{msg}}</h2>
+        </div>
+    </body>
+</html>

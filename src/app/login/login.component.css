@@ -1,0 +1,33 @@
+*{
+    font-size: 1.25vw;
+    font-weight: bold;
+}
+.form{
+    margin-top: 10vw;
+    margin-left: 36%;
+    padding: 1vw;
+    width: 28vw;
+    height: auto;
+    box-sizing: border-box;
+    border-radius: 0.5vw;
+    background-image: linear-gradient(to left,rgb(157, 255, 239),rgb(255, 216, 133));
+    box-shadow: 0.5vw 0.75vw 0.5vw 0 grey;
+}
+input{
+    color: gray;
+    padding: 0.5vw;
+    margin: 0.5vw;
+    width: auto;
+    border-radius: 0.5vw;
+}
+button{
+    color: whitesmoke;
+    background-color: green;
+    border-radius: 0.5vw;
+    width: 5vw;
+    height: auto;
+    padding: 0.75vw;
+}
+button:hover{
+    background-color: rgb(18, 129, 18);
+}
